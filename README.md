@@ -8,8 +8,12 @@
 ---
 
 <p align="left">
-  I'm a Software Engineering student passionate about building full-stack web applications and developing scalable backend systems.<br>
-  I specialize in <strong>Java, Spring Boot, Vue.js</strong>, and modern web technologies like TailwindCSS and PostgreSQL. I love working on hands-on projects and continuously growing my skill set through real-world development.
+  I'm a Software Engineering student passionate about building full-stack web applications and developing scalable backend systems.
+</p>
+
+<p align="left">
+  I'm currently focused on Java Spring Boot, Vue.js, and modern web technologies such as TailwindCSS, PostgreSQL, and CI/CD workflows. I enjoy turning ideas into real-world products and continuously improving both technical skills and architectural thinking.<br>
+  I’ve built several hands-on projects—from IoT-integrated platforms like ArduClimate, to social blogging systems and personal productivity tools—each helping me sharpen my ability to design, build, and maintain robust applications.
 </p>
 
 <p align="left">
@@ -18,7 +22,7 @@
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
