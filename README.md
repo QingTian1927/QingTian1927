@@ -13,7 +13,10 @@
 
 <p align="left">
   I'm currently focused on Java Spring Boot, Vue.js, and modern web technologies such as TailwindCSS, PostgreSQL, and CI/CD workflows. I enjoy turning ideas into real-world products and continuously improving both technical skills and architectural thinking.<br>
-  I’ve built several hands-on projects—from IoT-integrated platforms like ArduClimate, to social blogging systems and personal productivity tools—each helping me sharpen my ability to design, build, and maintain robust applications.
+</p>
+
+<p align="left">
+    I’ve built several hands-on projects—from IoT-integrated platforms like ArduClimate, to social blogging systems and personal productivity tools—each helping me sharpen my ability to design, build, and maintain robust applications.
 </p>
 
 <p align="left">
