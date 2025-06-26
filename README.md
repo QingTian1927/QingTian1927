@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Viet Dung Bui</h2>
+<h2 align="left">Hello there! I'm Bui Viet Dung</h2>
 
 <p align="left">
   🎓 FPT University (Undergraduate)<br>
