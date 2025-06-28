@@ -1,8 +1,8 @@
 <h2 align="left">Hello there! I'm Bui Viet Dung</h2>
 
 <p align="left">
-  🎓 FPT University (Undergraduate)<br>
-  📚 Major: Software Engineering
+  📚 K101 Nam Dinh Le Hong Phong Specialized High School<br>
+  🎓 K19 FPT University (Software Engineering Undergraduate)
 </p>
 
 ---
@@ -12,11 +12,7 @@
 </p>
 
 <p align="left">
-  I'm currently focused on Java Spring Boot, Vue.js, and modern web technologies such as TailwindCSS, PostgreSQL, and CI/CD workflows. I enjoy turning ideas into real-world products and continuously improving both technical skills and architectural thinking.<br>
-</p>
-
-<p align="left">
-    I’ve built several hands-on projects—from IoT-integrated platforms like ArduClimate, to social blogging systems and personal productivity tools—each helping me sharpen my ability to design, build, and maintain robust applications.
+    I specialize in <strong>Java, Spring Boot, Vue.js</strong>, and modern web technologies like TailwindCSS and PostgreSQL. I love working on hands-on projects and continuously growing my skill set through real-world development.
 </p>
 
 <p align="left">
