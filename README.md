@@ -8,11 +8,15 @@
 ---
 
 <p align="left">
-  I'm a Software Engineering student passionate about building full-stack web applications and developing scalable backend systems.
+  I'm just someone who enjoys exploring new technologies and building software that people can actually use. I learn for the fun of it, and I create because it's exciting to see ideas come to life.
 </p>
 
 <p align="left">
-    I specialize in <strong>Java, Spring Boot, Vue.js</strong>, and modern web technologies like TailwindCSS and PostgreSQL. I love working on hands-on projects and continuously growing my skill set through real-world development.
+  I often work with <strong>Java, TypeScript, Python</strong>, and whatever modern tools or frameworks catch my curiosity - from TailwindCSS to PostgreSQL and beyond.
+</p>
+
+<p align="left">
+  I like experimenting, building small (and sometimes big) projects, and picking up new skills along the way. For me, the joy is in learning, making, and sharing things that might be useful to others.
 </p>
 
 <p align="left">
@@ -52,7 +56,6 @@
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QingTian1927&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QingTian1927&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
